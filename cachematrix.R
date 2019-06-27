@@ -1,7 +1,7 @@
 ## This functions sets a martrix and inverses the matrix. 
 ##If already set, cache the matrix, getting cached matrix
 
-## Sets and gets the matrix
+## Sets and gets the matrix here
 
 makeCacheMatrix <- function(x = matrix()) {
     mat <- NULL
